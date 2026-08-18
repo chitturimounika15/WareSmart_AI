@@ -1,0 +1,7 @@
+New-Item -Path "WareSmart_AI\.gitignore" -ItemType File -Force
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
